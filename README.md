@@ -24,7 +24,7 @@ Soy una persona apasionada por la mejora continua, el aprendizaje constante y la
 ## 🌱 Hoy me interesa seguir creciendo en...
 
 - Automatización de pruebas con herramientas modernas
-- Integración entre QA y desarrollo continuo (CI/CD, DevOps)
+- Integración entre QA y desarrollo continuo
 - Accesibilidad web y diseño inclusivo
 - Proyectos con impacto real y humano
 
