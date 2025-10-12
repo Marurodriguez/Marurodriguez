@@ -31,7 +31,7 @@ Soy una persona apasionada por la mejora continua, el aprendizaje constante y la
 ---
 ## 🐾 Algo más sobre mí
 
-Además de la tecnología, soy **apasionada de la naturales y amante de los perros** y me desempeño como **educadora canina**.  
+Además de la tecnología, soy **apasionada de la naturaleza y amante de los perros** practico escalada y me desempeño como **educadora canina**.  
 Creo en los vínculos basados en el respeto, tanto con humanos como con perris 🐶💚.
 
 ---
