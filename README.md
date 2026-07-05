@@ -1,4 +1,4 @@
-# 👋 Hola! Soy Marisol, pero me dicen Maru.
+# 👋 Hola! Soy Marisol, pero me dicen Maru 🙆
 
 Actualmente me desempeño como QA Analyst, realizando pruebas manuales y automatizadas, y también brindo soporte funcional y técnico de software.  
 Tengo experiencia en desarrollo web con tecnologías como **HTML5, CSS, JavaScript, TypeScript** y frameworks **Angular y Spring Boot**. 
